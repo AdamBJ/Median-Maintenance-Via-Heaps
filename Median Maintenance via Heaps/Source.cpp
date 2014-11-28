@@ -1,6 +1,5 @@
 #include "Heap.h"
 #include <fstream>
-#include <ostream>
 #include <iostream>
 
 using namespace std;

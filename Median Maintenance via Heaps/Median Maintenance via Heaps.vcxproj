@@ -77,12 +77,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Heap.cpp" />
-    <ClCompile Include="QuickSort.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Heap.h" />
-    <ClInclude Include="QuickSort.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Median.txt" />
